@@ -1,0 +1,4 @@
+colorify
+scikit-learn
+pefile
+numpy
